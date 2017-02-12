@@ -5,7 +5,7 @@ models
 *.swp
 *.p
 *.zip
-checkpoint/
+checkpoint
 *.data*
 *.index
 *.meta
