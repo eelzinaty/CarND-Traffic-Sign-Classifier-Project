@@ -6,3 +6,6 @@ models
 *.p
 *.zip
 checkpoint/
+*.data*
+*.index
+*.meta
