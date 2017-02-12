@@ -9,3 +9,4 @@ checkpoint/
 *.data*
 *.index
 *.meta
+__pycache__/
